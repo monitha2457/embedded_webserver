@@ -50,8 +50,7 @@ The ESP32 successfully hosts a web page that allows users to control the LED rem
 - Add sensor monitoring
 - Implement authentication and security
 - Integrate cloud services for remote access
-##Link url
-https://wokwi.com/projects/465599127510225921
+
 ## Author
 Monitha
 
