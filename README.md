@@ -1,7 +1,7 @@
 # ESP32 Embedded Web Server
 
 ## Project Overview
-This project demonstrates an Embedded Web Server using the ESP32 microcontroller. The ESP32 connects to a Wi-Fi network and hosts a web page that allows users to control an LED through a web browser. The project showcases the integration of IoT concepts, wireless communication, and embedded system programming.
+This project demonstrates an Embedded Web Server using the ESP32 microcontroller.The ESP32 connects to a Wi-Fi network and hosts a web page that allows users to control an LED through a web browser. The project showcases the integration of IoT concepts, wireless communication, and embedded system programming.
 
 ## Objectives
 - To understand the basics of ESP32 web server implementation.
